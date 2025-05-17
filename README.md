@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dyako Georgiev, im from Bulgaria but I live abroad.
-- 🦝 I’m interested in gamming, sci-fi TV and learnig more about codding.
+- 🦝 I'm interested in gaming, sci-fi TV, and learning more about coding, among other things.
 - 🌱 I’m currently learning codding with Python at SoftUni.
 - 💞️ I’m looking to collaborate on any begginer level projects of any sort.
 - 📫 How to reach me by e-mail @ diakata84@gmail.com
