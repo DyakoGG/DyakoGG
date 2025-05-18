@@ -2,7 +2,7 @@
 - 🦝 I have an interest in gaming, science fiction television, and expanding my knowledge of coding, among other subjects.
 - 🌱 I’m currently learning codding with Python at SoftUni.
 - 💞️ I’m looking to collaborate on any begginer level projects of any sort.
-- 📫 How to reach me by e-mail @ diakata84@gmail.com
+- 📫 How to reach me by e-mail @ dyako.georgiev84@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
